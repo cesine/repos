@@ -1,0 +1,14 @@
+{
+  "name": "repos",
+  "version": "0.0.0",
+  "description": "what are repos for",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "author": "",
+  "license": "MIT"
+}
