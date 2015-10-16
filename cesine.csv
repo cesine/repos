@@ -1,0 +1,249 @@
+name,description,size,language,created_at,pushed_at,fork,stargazers_count,watchers_count,forks,open_issues
+Aac js,AAC decoder in JavaScript ,376,JavaScript,2013 12 30T05:28:28Z,2013 11 10T00:40:46Z,true,0,0,0,0
+AndEngineExamples,AndEngine   Examples,89636,Java,2013 08 30T20:50:49Z,2013 08 30T20:54:11Z,true,0,0,0,0
+Android Restaurant Menu,This is an Android application that can be used for providing a digital menu for a restaurant ,9010,,2014 10 14T19:36:56Z,2014 10 15T15:43:28Z,true,0,0,0,0
+Android Restaurant Menu sikuli,Visual tests for Android Restaurant Menu,124,Python,2014 10 20T16:16:08Z,2014 10 20T16:18:08Z,false,2,2,0,0
+Android Restaurant Menu spec,,100,Groovy,2014 10 20T21:32:48Z,2014 10 20T21:33:52Z,false,0,0,0,0
+Android Restaurant Menu test,JUnit tests for Android Restaurant Menu,168,Java,2014 10 20T18:21:31Z,2014 10 20T18:23:04Z,false,0,0,0,0
+Android tutorial turn taking game,,119,Java,2012 03 27T22:04:31Z,2012 03 27T22:05:14Z,false,2,2,1,0
+AndroidAuBlog,An open source blogger client which uses advances in linguistics and machine learning to improve user experience,15916,JavaScript,2011 08 09T15:57:24Z,2014 03 17T13:29:50Z,false,0,0,0,11
+AndroidBacteriaImageProcessing,An Android App that snaps a picture of a petrifilm  counts the bacteria and posts the counts on a server for the mWater project,12464,C++,2012 04 11T21:56:19Z,2012 04 12T02:34:24Z,true,1,1,0,0
+AndroidDictationWidget,An OpenSource widget for use on homescreen or in a host activity which lets developers record dictations and send them for transcription through various Voice Recognition and/or Transcription APIs  including the Android recognizer as well as other more flexible (less reliable) recognizers,16184,Java,2012 02 17T14:18:03Z,2012 02 23T03:32:37Z,false,1,1,0,3
+AndroidFieldDB,,41952,Java,2014 09 13T18:55:53Z,2015 09 13T14:54:53Z,true,0,0,0,0
+AndroidFieldDBElicitationRecorder,A guestbook app for weddings  grandma proof and record video,1732,Java,2013 08 28T23:19:52Z,2014 03 16T17:19:12Z,true,0,0,0,0
+AndroidFieldDBold,Android client with a local couch db to run FieldDB offline on an Android (installed app),25448,JavaScript,2013 01 03T15:33:46Z,2013 07 31T03:08:47Z,true,0,0,0,0
+AndroidFirebaseTutorial,Example code which can be used at a hackathon for building a collaborative app,1684,Java,2015 09 08T18:48:01Z,2015 09 10T14:17:34Z,false,0,0,0,0
+AndroidH2ORMLiteSample,This is a fork of the H2 plus ORMLite for Android http://ormlite svn sourceforge net/viewvc/ormlite/examples/android/HelloAndroidH2/ for using H2 for large blob value stores,48,,2012 03 01T22:22:02Z,,false,1,1,0,0
+AndroidLanguageLearningClientForFieldDB,A prototype for an Android language learning app which plugs into FieldDB corpora to create language learning apps ,4728,Java,2014 03 19T10:43:29Z,2014 05 03T13:32:33Z,true,1,1,0,0
+AndroidLevelDBSample,LevelDB is a fast key value storage library written at Google that provides an ordered mapping from string keys to string values  This example shows how to use levelDB in an Android project  This project provides the Android project wrapper needed to call the levelDB project files from Java  the levelDB code is from a fork of the android branch of ,618,C++,2012 02 28T19:30:44Z,2015 08 20T21:41:13Z,false,23,23,7,1
+AndroidMorphologicalAwareness,OpenSource Experiment Software for Android Tablets,54237,Java,2011 09 01T17:47:38Z,2011 11 01T19:21:07Z,true,5,5,4,0
+AndroidOpenCVforHackathons,A hackathon ready project with selfdocumenting OpenCV debugging so you can get programming with OpenCV as soon as possible,13180,Java,2012 02 20T16:39:39Z,2015 08 31T14:48:16Z,false,5,5,6,16
+AndroidOPrime,See https://github com/iLanguage/OPrime  This repository contains the old version history before merging OPrime repositories into one ,51095,Java,2011 10 24T01:20:03Z,2012 12 02T18:25:18Z,false,4,4,2,0
+AndroidPocketSphinx,Offline Automatic Speech Recognition for Android 2 2+ using Sphinx (specifically PocketSphinx),7717,Java,2011 05 27T15:21:53Z,2014 06 22T07:43:00Z,true,16,16,10,0
+AndroidPocketSphinxRemoteFiles,Put these remote files on a server to create a new mirror of the language models and acoustic models for AndroidPocketSphinx,11422,,2011 05 29T20:33:33Z,2011 05 29T20:40:47Z,false,2,2,0,0
+AndroidPushNotificationsForHackathons,A quick Google Cloud Messaging sampel for hackathons,624,Java,2013 07 13T16:28:06Z,2013 07 14T16:23:28Z,false,0,0,0,0
+AndroidScreenDrawingSamples,These are the samples from the sdk  in case you cant get them for some reason ,5300,Java,2014 03 25T08:04:30Z,2014 03 25T08:10:32Z,false,0,0,0,0
+AndroidSRTGenerator,Test project to develop an "utterance finder",4416,Java,2015 08 31T15:17:05Z,2015 08 31T15:30:59Z,false,0,0,0,0
+Android game examples,Android Game Examples,32403,Java,2011 03 28T21:40:08Z,2011 03 29T00:52:42Z,true,1,1,0,0
+Android page curl,An example application for creating page curl/flip effect on Android using OpenGL ES ,5171,Java,2011 10 23T15:07:38Z,2012 05 25T22:15:01Z,true,1,1,0,0
+Angular contenteditable,Angular model for the "contenteditable" attribute,536,,2014 07 30T17:54:13Z,2014 06 24T16:44:07Z,true,0,0,0,0
+Angular d3 demo,,74,JavaScript,2013 03 19T12:25:43Z,2012 09 08T06:35:54Z,true,0,0,0,0
+Angular dragdrop,A Native ( without jquery )  Drag and Drop directive for AngularJS using HTML5 Drag and Drop ,171,JavaScript,2014 11 03T04:31:27Z,2014 12 26T04:59:50Z,true,0,0,0,0
+Angular file upload shim bower,,556,,2014 11 19T18:27:42Z,2014 09 26T03:56:24Z,true,0,0,0,0
+Angular nvd3,An AngularJS directive for NVD3 reusable charting library (based on D3)  Easily customize your charts via JSON API ,3406,JavaScript,2014 10 10T04:33:44Z,2014 11 14T21:48:43Z,true,0,0,0,0
+Angular requirejs seed,,378,JavaScript,2013 06 11T19:23:13Z,2013 06 11T19:31:07Z,true,0,0,0,0
+Angular seed,Seed project for angular apps  ,6592,JavaScript,2012 10 27T22:26:39Z,2013 04 30T21:27:44Z,true,0,0,0,0
+Animint,Interactive animations,106355,,2014 10 15T01:20:30Z,2014 10 14T20:32:41Z,true,0,0,0,0
+Ark tweet nlp,CMU ARK Twitter Part of Speech Tagger,57963,Java,2012 08 29T18:26:49Z,2012 08 16T17:25:17Z,true,0,0,0,0
+Artshack,,364,Java,2015 09 24T00:58:17Z,2015 10 11T18:25:16Z,true,0,0,0,0
+AudioWebService,A simple nodejs server which accepts upload of audio and runs it through praat,73137,JavaScript,2015 08 17T19:09:04Z,2015 08 17T19:32:00Z,true,0,0,0,0
+AuthenticationWebService,,1242,JavaScript,2012 09 16T22:22:11Z,2015 09 15T21:17:27Z,true,0,0,0,0
+AutoSuggest,JQuery AutoComplete Plugin   Takes alanhogan's version and adds option to auto select the first match without clicking or arrowing to it  More like default facebook behavior where you can type a few letters and hit enter or tab to select the first match ,76,JavaScript,2012 09 05T16:22:45Z,2012 03 19T14:20:46Z,true,0,0,0,0
+Backbone paginator,Backbone Paginator is a pagination component for Backbone js ,440,JavaScript,2012 06 04T14:54:13Z,2012 12 02T18:43:12Z,true,1,1,0,0
+Bad Aliens,Embedding sethladds' html5 game in a chrome extension as a packaged webapp,462,JavaScript,2011 11 30T15:07:20Z,2012 01 14T01:26:20Z,true,2,2,1,0
+BAT correctedsyllabletiming,Fichiers textgrid original corrigés sur Praat,332,,2012 05 12T15:35:11Z,2012 05 18T19:39:58Z,true,1,1,0,0
+Behemoth,Behemoth is an open source platform for large scale document analysis based on Apache Hadoop ,6729,Java,2012 01 14T13:59:41Z,2012 12 02T18:52:26Z,true,1,1,0,0
+BilingualAphasiaTest OpenData,Open Data repository for metadata gathered by the Bilingual Aphasia Test project,92,,2011 10 08T18:15:50Z,2011 10 08T18:44:07Z,false,1,1,0,0
+Blockly,Blockly Applications (MOOC),104164,JavaScript,2014 06 18T08:36:28Z,2014 06 18T06:38:06Z,true,0,0,0,0
+Book animation,Book animation,1534,Java,2014 09 11T23:11:29Z,2014 09 13T16:29:38Z,true,0,0,0,0
+Brainbrowser,Web based visualization tools for neurological data ,75284,,2014 10 18T17:52:48Z,2014 10 19T13:29:29Z,true,0,0,0,0
+Chef sikulix,A Chef cookbook to install SikuliX,156,Ruby,2014 12 02T15:26:06Z,2014 10 23T20:31:43Z,true,0,0,0,0
+Chm,Nodejs chm container which can even run in windows xp,144,JavaScript,2015 08 18T02:37:44Z,2015 08 18T04:45:39Z,false,0,0,0,2
+Cleaning,,120,JavaScript,2015 06 19T15:12:32Z,2015 06 19T15:15:42Z,false,0,0,0,0
+Cmuclmtk for nodejs,Mirror of cmuclmtk which can run in Node js,8120,C,2014 07 15T21:40:37Z,2014 07 15T21:44:01Z,false,0,0,0,0
+CoffeeShopApp,Application for searching a coffee shop,215,JavaScript,2015 04 12T14:13:19Z,2015 04 23T15:12:15Z,true,0,0,0,0
+Collections,This package contains JavaScript implementations of common data structures with idiomatic interfaces ,1343,JavaScript,2014 03 07T23:54:18Z,2015 06 09T17:50:49Z,true,0,0,0,0
+Cordova android,Mirror of Apache Cordova Android,25559,Java,2014 01 01T18:22:03Z,2015 09 29T06:46:49Z,true,0,0,0,1
+Cordova mobile spec,Mirror of Apache Cordova mobile spec,1377,JavaScript,2013 10 04T02:39:44Z,2013 10 04T02:44:51Z,true,0,0,0,0
+CornerCouch,CornerCouch   AngularJS module for CouchDB,101,JavaScript,2013 03 18T20:14:25Z,2013 03 18T20:19:06Z,true,0,0,0,0
+CorporaForFieldLinguistics,Small corpora from diverse language typologies  useful for testing scripts,39191,HTML,2011 02 23T19:04:16Z,2015 08 31T15:19:04Z,false,3,3,4,0
+CorpusInuktitut,A collection of generated and extracted vocabulary ,21367,,2011 11 10T02:11:35Z,2012 03 17T17:34:00Z,false,4,4,3,0
+CorpusWebService,Über simple node js Proxy to enable CORS request for any website ,292,JavaScript,2013 02 05T13:44:25Z,2015 06 11T02:09:52Z,true,0,0,0,0
+CouchAppSVGPresentationSlides,A couchapp that lets you give a presentation by panning  rotating and zooming in an svg/png/pdf file,162,JavaScript,2012 11 11T02:55:18Z,2010 09 27T09:25:29Z,true,0,0,0,0
+Couchbase lite android,Lightweight  embedded  syncable NoSQL database engine for Android ,9982,Java,2013 05 16T22:10:28Z,2015 05 26T13:49:39Z,true,0,0,0,0
+Couchbase lite android listener,Embedded web server to expose Couchbase Lite REST API on an http socket,8252,Java,2013 08 29T20:21:46Z,2013 08 29T20:31:09Z,true,0,0,0,0
+Couchbase lite android liteserv,An HTTP (ReST) interface to the Couchbase Lite database running on the device/emulator,3061,Shell,2015 05 25T18:40:10Z,2015 05 24T21:28:27Z,true,0,0,0,0
+Couchbase lite java core,Couchbase Lite Java core library,7369,Java,2015 05 25T18:39:36Z,2015 05 22T21:21:52Z,true,0,0,0,0
+Couchbase lite java javascript,Javascript view engine for Couchbase Lite Android,3003,Java,2015 05 25T18:40:22Z,2015 05 18T23:24:33Z,true,0,0,0,0
+Crypto chrome,Chrome extension to enable crypto in the browser ,704,JavaScript,2013 08 19T01:41:17Z,2013 08 18T00:52:48Z,true,0,0,0,0
+D3 cloud,Create word clouds in JavaScript ,896,JavaScript,2013 09 26T15:26:37Z,2015 09 23T15:36:48Z,true,2,2,4,54
+D3Donuts,A simple D3 donuts samples with unlimited numbers of donuts with arrays for parts of the donuts ,168,JavaScript,2012 04 10T02:39:06Z,2012 04 10T02:39:22Z,false,1,1,1,0
+D3meetup,,6779,JavaScript,2015 09 12T01:00:51Z,2015 08 30T23:19:38Z,true,0,0,0,0
+Dashing,A realtime updating usage dashboard for fielddb servers (forked from dashing),817,JavaScript,2013 06 08T18:50:12Z,2013 06 08T18:55:06Z,true,0,0,0,0
+Dative,A single page application that interacts with multiple linguistic fieldwork web service databases ,10684,CoffeeScript,2014 10 28T13:29:41Z,2015 10 05T02:01:58Z,true,0,0,0,0
+DeepLearnToolbox,Matlab/Octave toolbox for deep learning  Includes Deep Belief Nets  Stacked Autoencoders  Convolutional Neural Nets  Convolutional Autoencoders and vanilla Neural Nets  Each method has examples to get you started ,14591,Matlab,2013 08 17T12:08:35Z,2013 07 09T11:43:43Z,true,0,0,0,0
+Diacritics,Node js / components: remove diacritics from strings ("ascii folding"),55,JavaScript,2013 08 14T13:33:18Z,2013 08 14T13:49:06Z,true,0,0,0,0
+Digit,Montage template package: Contains touch optimized Montage components for tablets and phones (work in progress) ,12667,JavaScript,2013 12 28T22:43:50Z,2013 12 30T15:41:32Z,true,0,0,0,0
+Dotfiles,,0,Shell,2015 10 09T01:16:53Z,2015 10 09T02:06:18Z,false,0,0,0,0
+DragAndDropDataCruncher,Drag and Drop Image Uploader,191,JavaScript,2012 11 24T19:45:20Z,2012 11 24T20:55:25Z,true,0,0,0,0
+Dyslex disorth game sikuli,Sikuli tests for dyslex disorth game,2558,Python,2014 12 05T13:39:31Z,2014 12 05T13:38:28Z,true,0,0,0,0
+DyslexDisorthGame,,6902,JavaScript,2012 08 20T18:24:22Z,2015 08 25T19:28:18Z,true,0,0,0,0
+EasySec,Browser Security Suite,294,,2013 08 19T01:43:55Z,2013 08 17T22:16:23Z,true,0,0,0,0
+EgnyteIntents,Intents library for Egnyte integration,792,Java,2015 06 28T14:37:46Z,2015 06 30T03:20:38Z,false,0,0,0,0
+Endangered languages,A list of resources for conservation  development  and documentation of endangered  minority  and low or under resourced human languages ,1086,,2015 02 15T15:11:54Z,2015 02 15T07:34:10Z,true,0,0,0,0
+Epub js,Enhanced eBooks in the browser ,13065,JavaScript,2013 10 28T20:09:51Z,2013 10 27T01:56:45Z,true,0,0,0,0
+Epub3 boilerplate,An EPUB 3 0 template to help you get started with your ebook  (Includes iBooks display options ),60,,2013 12 19T06:45:26Z,2013 07 13T17:43:24Z,true,0,0,0,0
+Epublib,A java library for reading and writing epub files,3106,Java,2013 10 28T20:01:48Z,2013 09 10T18:06:51Z,true,0,0,0,0
+Esv text audio aligner,ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio,60,JavaScript,2013 10 28T18:15:09Z,2013 03 29T19:16:53Z,true,0,0,0,0
+ExampleHTML5AudioStreaming,Example project showing audio streaming using HTML5 Audio with PhoneGap on iOS   https://build phonegap com/apps/242993,6554,JavaScript,2014 01 02T19:00:51Z,2014 01 02T19:01:11Z,true,0,0,0,0
+Exceptionminer,Tool for mining stack trace information from GitHub and Google Code issues (to be added as an opensource project)  This tool is based on GHTorrent Dataset (http://ghtorrent org/),420,HTML,2015 09 09T19:25:50Z,2015 04 09T01:33:01Z,true,0,0,0,0
+Fakinator,Create fake data to push to a CouchDB,2933,JavaScript,2013 01 10T15:44:28Z,2013 01 08T21:56:33Z,true,0,0,0,0
+FieldDB,An offline/online field database which adapts to its user's terminology and I Language   http://fielddb github io,139890,JavaScript,2015 09 02T15:17:18Z,2015 10 11T19:01:49Z,true,0,0,0,0
+Fielddb spreadsheet sikuli,Sikuli tests for the spreadsheet module,642,Python,2014 12 28T14:39:41Z,2015 01 05T12:30:45Z,true,0,0,0,0
+FieldDBGlosser,A semi automatic IGT morpheme segmenter and glosser written in Javascript,816,JavaScript,2014 03 05T22:56:05Z,2015 07 29T15:51:52Z,false,0,0,0,0
+FieldDBLexicon,A lexicon browser/editor web widget for FieldDB databases,300,JavaScript,2015 06 30T13:51:26Z,2015 08 19T13:43:04Z,true,0,0,0,0
+FieldDBWebServer,,29813,HTML,2012 09 16T22:22:33Z,2015 09 15T20:37:40Z,true,0,0,0,0
+Fieldtrip,The Matlab software toolbox for MEG and EEG analysis,451713,Matlab,2013 08 17T12:06:19Z,2013 08 17T10:02:34Z,true,0,0,0,0
+Font Awesome,The iconic font designed for Bootstrap,12503,CSS,2014 01 06T03:43:51Z,2013 12 05T12:20:13Z,true,0,0,0,0
+Frb,Functional Reactive Bindings (frb): A CommonJS package that includes functional and generic building blocks to help incrementally ensure consistent state ,937,JavaScript,2014 02 05T19:05:08Z,2014 07 03T19:34:08Z,true,0,0,0,0
+Frb jsmtl,A FRB talk presented at JS MTL,176,JavaScript,2014 02 13T16:33:32Z,2014 03 11T04:00:00Z,false,0,0,0,0
+GateBasicPluginTemplate,A simple gate plugin for preprocessing multilingual text for users to feed into Wordle net,96,Java,2012 02 08T21:25:49Z,2012 02 08T22:50:02Z,false,1,1,0,0
+GATEinGrails,,1036,Groovy,2011 02 23T20:43:02Z,2011 02 23T21:52:42Z,false,1,1,0,0
+GATEinSpring,,44691,Java,2011 02 23T20:16:36Z,2015 10 11T18:49:26Z,false,4,4,6,0
+Generator angular fullstack,Yeoman generator for AngularJS with an Express server,10438,,2014 10 27T17:19:13Z,2014 10 08T16:17:30Z,true,0,0,0,0
+Generator socketio,A quick way to start off a socketio project with nodejs & bootstrap (optional),246,JavaScript,2014 03 04T18:17:43Z,2014 03 04T18:52:28Z,true,0,0,0,0
+Georgian Names,A simple application to search for Georgian names (first or last) and see how popular it is ,27660,Ruby,2014 04 04T15:34:27Z,2014 01 14T13:37:19Z,true,0,0,0,0
+Github badges,Star / Fork badges for your GitHub Repository!,400,HTML,2015 08 02T15:29:24Z,2015 05 13T19:55:40Z,true,0,0,0,0
+Grunt contrib analyze css,Grunt task that analyze your css with analyze css and compare the results to a user defined benchmark,196,,2014 08 13T00:07:30Z,2014 06 27T00:55:53Z,true,0,0,0,0
+Grunt jasmine node,Grunt task for running jasmine node,148,JavaScript,2014 07 03T15:57:31Z,2014 07 22T13:16:37Z,true,0,0,0,0
+Grunt menu,Useful menu interface for listing/executing your configured tasks,192,,2014 08 13T02:06:21Z,2014 08 06T17:27:36Z,true,0,0,0,0
+Hackreduce publictransit,Library and resources for hack/reduce Hackathon events,83253,Java,2012 07 17T14:52:40Z,2012 04 29T03:53:34Z,true,1,1,0,0
+Hadoop GATE,A Hadoop job that runs GATE applications,83,Java,2012 01 14T14:40:11Z,2012 01 14T01:47:12Z,true,2,2,0,0
+Homebrew,The missing package manager for OS X ,31010,Ruby,2015 02 11T02:09:28Z,2015 06 27T10:17:16Z,true,0,0,0,0
+Html5 audio read along,HTML5 Audio Read Along,60,JavaScript,2013 10 28T18:21:15Z,2012 05 06T14:15:08Z,true,0,0,0,0
+Icon,Convert an image to thumbnails suitable for favicon  metro tiles  touch icons ,66,,2013 10 07T22:14:26Z,2013 06 22T19:03:46Z,true,0,0,0,0
+ILanguage,A semi unsupervised language independent morphological analyzer useful for stemming unknown language text  or getting a rough estimate of possible parses for morphemes in a word  Input: a corpus  Uses compression  maximum entropy and fieldlinguistics ,233994,JavaScript,2015 06 08T20:22:05Z,2015 08 21T15:48:27Z,true,0,0,0,0
+ILanguageCloud,An HTML5/Android word cloud generation codebase,2356,JavaScript,2013 11 20T15:55:38Z,2015 07 16T14:30:24Z,true,0,0,0,0
+ILanguageCloudChrome,,630,JavaScript,2014 01 10T03:31:07Z,2015 07 16T14:36:55Z,true,0,0,0,0
+Inimesed,An Android app that lets you search your contacts by voice  Internet not required  Based on PocketSphinx  Uses Estonian acoustic models ,907,Java,2013 05 13T20:56:50Z,2013 04 28T11:16:27Z,true,0,0,0,0
+JavaScript Code Katas,Let's practice our JavaScript testing ,2840,JavaScript,2012 01 10T22:45:46Z,2011 06 13T18:29:50Z,true,1,1,0,0
+Job Announcement Scraper,A simple scraper to get job announcement info in Georgia,72965,Ruby,2014 04 04T15:32:28Z,2014 04 04T14:10:22Z,true,0,0,0,0
+JPlayer,JPlayer : HTML5 Audio & Video for jQuery,60,JavaScript,2013 10 28T18:50:34Z,2013 06 21T16:05:06Z,true,0,0,0,0
+Jquery autosuggest,A fork of AutoSuggest jQuery plugin writtern by Drew Wilson ,121,JavaScript,2012 09 05T16:31:47Z,2012 06 15T02:15:09Z,true,0,0,0,0
+Js montreal org,The js montreal org website,23653,JavaScript,2011 11 09T00:55:16Z,2011 11 03T21:22:39Z,true,1,1,0,0
+Json benchmarks,Benchmarks for groovy json and most popular json libraries,823,Java,2015 09 10T20:13:58Z,2015 09 11T15:02:58Z,true,0,0,0,0
+Jstestdriver part1,Some sample jstestdriver setup code,100,JavaScript,2012 01 10T22:46:35Z,2012 01 11T15:39:50Z,false,1,1,0,0
+JSuggest,A jQuery seach suggestion plugin that "tokenizes / taggifies" the selected items,81,JavaScript,2012 09 05T16:30:01Z,2012 06 24T23:33:55Z,true,0,0,0,0
+Kibana,Kibana,39318,,2014 10 17T02:49:28Z,2014 10 16T20:49:11Z,true,0,0,0,0
+LexiconWebService,,310,JavaScript,2013 09 29T03:59:42Z,2015 06 11T02:10:12Z,true,0,0,0,0
+Long audio aligner,Http://sourceforge net/p/cmusphinx/code/11633/tree/branches/long audio aligner/Aligner,13016,Java,2013 05 13T20:47:28Z,2012 10 17T06:25:31Z,true,1,1,0,0
+Loremtyaosani,ავტომატურად აგენერირებს სტროფებს ვეფხისტყაოსნის მიხედვით,606,JavaScript,2014 04 04T11:43:19Z,2013 05 18T11:52:54Z,true,0,0,0,0
+LowResourceLanguages about,A meta repository for discussion  planning  and documentation of this organization,549,JavaScript,2015 09 19T03:13:58Z,2015 09 20T23:42:16Z,true,0,0,0,0
+Matte,Montage template package: Contains desktop UI components ,1027,JavaScript,2013 08 27T02:21:02Z,2014 02 10T05:45:25Z,true,0,0,0,0
+Mcbenchviz,Visualize performance results of benchmarks ,481,JavaScript,2013 08 17T13:56:43Z,2013 08 18T13:40:45Z,true,0,0,0,0
+Medic,Continuous integration setup for Apache Cordova,918,JavaScript,2013 10 03T22:52:49Z,2013 04 22T15:08:11Z,true,0,0,0,3
+Metrics,Capturing JVM  and application level metrics  So you know what's going on ,15738,Java,2013 09 02T21:09:46Z,2013 07 23T22:19:30Z,true,0,0,0,0
+Metrics 1,A metrics library for Node js,114,JavaScript,2013 09 02T21:16:29Z,2013 06 28T20:04:14Z,true,0,0,0,0
+MigmaqLessons,,156924,CSS,2015 05 31T13:45:10Z,2015 05 31T13:16:33Z,true,0,0,0,0
+Minit,Tool: Helps you build Montage applications by generating template applications and components for you ,446,JavaScript,2013 06 20T17:48:39Z,2013 12 05T17:12:17Z,true,0,0,0,1
+MmMRI,Multi Modal MRI,1055,JavaScript,2014 10 18T16:18:22Z,2014 10 20T00:26:11Z,true,0,0,0,0
+Mobile chrome apps,Chrome apps on Android and iOS,35970,JavaScript,2014 01 06T01:05:18Z,2015 08 10T19:19:38Z,true,0,0,1,3
+Mobile services samples,,22073,JavaScript,2015 05 15T21:05:05Z,2015 07 16T12:55:09Z,true,0,0,0,0
+Model contrib,Open source visualizations built with ModelJS,5875,JavaScript,2015 09 11T22:12:18Z,2015 09 14T14:49:11Z,true,0,0,0,0
+Monaca framework android,Monaca Framework provides additional functionalities for PhoneGap hybrid mobile apps,24077,Java,2014 02 09T22:15:44Z,2013 10 08T01:47:55Z,true,0,0,0,0
+Montage,Core framework: Montage simplifies the development of rich HTML5 applications by providing modular components  real time two way data binding  CommonJS dependency management  and many more conveniences  Join us on irc freenode net#montage or https://groups google com/d/forum/montagejs,24310,JavaScript,2013 06 05T19:52:22Z,2014 02 26T21:09:05Z,true,0,0,0,0
+Montage chrome app,Chrome app getting started in MontageJS,1972,JavaScript,2014 01 07T05:46:14Z,2014 02 13T19:55:35Z,false,0,0,1,0
+Montage chrome extensions,Chrome extension getting started in MontageJS,1648,JavaScript,2014 01 07T04:27:11Z,2014 01 07T05:40:02Z,false,0,0,0,0
+Montage crypto,Running crypto js in montage,1368,JavaScript,2014 08 25T18:00:49Z,2014 08 25T19:09:48Z,false,0,0,0,0
+Montage mobile webviews,MontageJS testing ground in Android/iOS webviews ,10367,JavaScript,2013 09 12T00:51:55Z,2014 12 01T22:08:08Z,false,0,0,1,0
+Montage popcorn cordova,Montage Popcorn demo running inside Cordova/PhoneGap,18078,JavaScript,2013 09 12T00:56:26Z,2013 09 12T15:34:49Z,true,0,0,0,0
+Montage todomvc,The TodoMVC comparison app implemented using Montage,84,JavaScript,2013 06 05T23:46:40Z,2012 08 01T22:16:25Z,false,0,0,0,0
+Montagejs org,The montagejs org website with an introduction about Montage ,46134,CSS,2013 12 05T22:16:40Z,2014 02 17T01:18:21Z,true,0,0,1,0
+MorphoParser,A semi unsupervised language independent morphological analyzer useful for stemming unknown language text  or getting a rough estimate of possible parses for morphemes in a word  Uses compression  maximum entropy and fieldlinguistics ,118164,Perl,2014 01 09T19:50:17Z,2014 01 09T19:52:20Z,false,1,1,3,0
+Mousse,The library used by the MontageJS framework to manage the serialization of objects in its templates ,84,JavaScript,2013 09 05T20:26:06Z,2013 09 05T21:07:20Z,true,0,0,0,0
+Mr,Montage Require: A "no build step" CommonJS module system for browsers ,709,JavaScript,2014 01 08T00:36:10Z,2014 01 08T00:39:05Z,true,0,0,0,0
+MTLData Demos,,59,Python,2014 11 28T00:13:23Z,2014 11 25T06:18:11Z,true,0,0,0,0
+MultilingualCorporaExtractor,Node io Spider for extracting multilingual corpora,136,Shell,2013 06 10T20:01:09Z,2013 06 10T22:50:35Z,true,0,0,0,0
+Mytodo,,129,ApacheConf,2015 06 11T13:11:29Z,2015 06 21T15:18:05Z,true,0,0,0,0
+Mytodo gulp,,224,JavaScript,2015 07 13T14:37:52Z,2015 07 21T16:57:56Z,true,0,0,0,0
+Mytracks,Automatically exported from code google com/p/mytracks,37924,Java,2015 08 11T21:44:44Z,2015 08 12T12:33:01Z,false,0,0,0,9
+Mytracks assets,Automatically exported from code google com/p/mytracks assets,1480,,2015 08 11T21:44:44Z,2015 08 11T21:46:21Z,false,0,0,0,0
+NgParser js,A standalone angular expressions library,121,JavaScript,2014 01 16T16:35:09Z,2014 01 16T01:06:38Z,true,0,0,0,0
+Node clips,NodeJS package for using CLIPS  a tool for building expert systems ,1164,C,2015 07 16T16:01:46Z,2014 01 05T08:23:04Z,true,0,0,0,0
+Node oauth2 server,Complete  compliant and well tested module for implementing an OAuth2 Server/Provider with express in node js,454,JavaScript,2014 03 17T06:39:47Z,2015 05 13T02:23:18Z,true,0,0,1,0
+Node opencv,OpenCV Bindings for node js,7685,C++,2013 11 07T21:26:41Z,2013 10 09T22:11:59Z,true,0,0,0,0
+Node pocketsphinx,,209,,2014 08 21T17:33:11Z,2014 06 27T19:57:27Z,true,0,0,0,0
+Node unoconv web service,Node js document converter using unoconv,60,JavaScript,2013 08 13T20:23:46Z,2013 06 13T14:00:15Z,true,0,0,0,0
+Node wit,Node wrapper for Wit AI,363,JavaScript,2015 07 16T18:53:56Z,2015 05 18T18:53:56Z,true,0,0,0,0
+Nodejs livechat,Livehelp/livechat made in node js,343,JavaScript,2011 12 18T01:42:12Z,2011 12 17T23:52:23Z,true,1,1,0,0
+Nodejs sphinx,Node server which accepts audio files and runs praat and sphinx on them,72916,JavaScript,2013 12 08T05:38:49Z,2013 12 08T05:40:15Z,true,6,6,1,0
+Nunaliit,Nunaliit Atlas Framework,19415,,2014 09 15T22:06:55Z,2014 09 12T03:32:03Z,true,0,0,0,0
+Oauthorize,OAuth service provider toolkit for Node js ,124,JavaScript,2013 09 02T14:04:38Z,2012 07 02T19:32:40Z,true,0,0,0,0
+Old,,51836,Python,2014 01 20T13:38:22Z,2013 08 13T18:10:09Z,true,0,0,0,0
+OpenBankWebApp,Imported from our sourceforge project,4100,PHP,2015 09 09T16:59:08Z,2015 09 09T17:21:46Z,false,0,0,0,0
+OpenIDConnect,A simple customizable OpenID Connect provider (server) for node js ,84,JavaScript,2013 09 02T21:40:52Z,2013 09 02T22:24:27Z,true,0,0,0,0
+OPrime,Open Source Experimentation Libraries   Online and Offline for Android and HTML5,32673,JavaScript,2013 12 13T18:47:13Z,2014 03 27T19:03:26Z,true,3,3,1,0
+OPrimeAdministrator,See https://github com/iLanguage/OPrime,1108,Java,2012 11 11T15:52:19Z,2012 11 21T07:35:18Z,false,0,0,1,3
+OPrimeExperimentSampleAssets,Sample experiment json and stimuli,256,CSS,2014 06 21T09:44:34Z,2014 06 21T10:09:49Z,false,0,0,0,0
+Orthographic pedant,Correcting common typos in Github one pull request at a time ,324,Python,2015 10 08T02:07:51Z,2015 10 08T02:10:39Z,true,0,0,0,0
+Pdf js,PDF Reader in JavaScript,204,JavaScript,2013 12 13T19:28:58Z,2013 12 12T13:09:33Z,true,0,0,0,0
+PDFtoAudioBook,Takes a pdf  can generate an audiobook,718,Java,2011 01 14T00:46:46Z,2011 02 23T19:31:59Z,false,6,6,2,0
+Phonetisaurus,Automatically exported from code google com/p/phonetisaurus,3956,Python,2015 07 20T14:36:24Z,2015 07 20T14:39:56Z,false,0,0,0,11
+Pivottable,Javascript Pivot Table (aka Pivot Grid  Pivot Chart  Cross Tab) implementation with drag'n'drop ,916,CoffeeScript,2013 09 10T23:38:39Z,2013 09 07T12:57:05Z,true,0,0,0,0
+Pixastic,JavaScript Image Processing Library,1239,JavaScript,2014 11 28T00:16:41Z,2014 09 04T09:18:49Z,true,0,0,0,0
+Pocketsphinx,PocketSphinx is a lightweight speech recognition engine  specifically tuned for handheld and mobile devices  though it works equally well on the desktop,128105,,2014 08 19T18:59:56Z,2014 07 25T13:56:34Z,true,0,0,0,0
+Pocketsphinx android,Pocketsphinx build for Android,319,Java,2014 06 22T07:25:49Z,2015 07 05T00:26:27Z,true,0,0,0,2
+Pocketsphinx android demo,,25475,Java,2014 06 22T11:55:35Z,2014 08 19T19:19:58Z,true,0,0,0,1
+Pocketsphinx js,Speech recognition in JavaScript,27275,JavaScript,2014 06 22T18:49:14Z,2014 06 22T13:10:49Z,true,0,0,0,0
+Popcorn,Sample Montage application,471,JavaScript,2013 09 12T15:58:07Z,2014 01 05T23:51:55Z,true,0,0,1,0
+Popcorn js,The HTML5 Media Framework,80658,JavaScript,2013 10 28T18:59:02Z,2013 10 22T19:11:26Z,true,0,0,0,0
+Pouchdb,PouchDB is a pocket sized database ,75411,JavaScript,2012 05 31T15:51:02Z,2015 10 15T12:14:24Z,true,1,1,0,1
+ProgrammingAssignment2,Repository for Programming Assignment 2 for R Programming on Coursera,98,R,2014 10 26T23:30:31Z,2014 10 26T23:56:54Z,true,0,0,0,0
+Prosodylab Aligner,Python interface for forced audio alignment using HTK and SoX,4506,Python,2012 03 14T22:49:23Z,2013 05 13T15:27:49Z,true,1,1,0,1
+PublicEgnyteAndroidApp,,1833,Java,2015 06 27T15:09:16Z,2015 06 27T17:02:23Z,true,0,0,0,0
+Pump io,Social server with an ActivityStreams API,8178,JavaScript,2013 07 09T23:52:17Z,2013 07 09T20:06:44Z,true,0,0,0,0
+QartuliDaBunebismetkveleba,მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე 2   მე 3 კლასის მოსწავლეებისათვის ,89356,ActionScript,2014 04 04T11:42:03Z,2013 12 15T23:21:52Z,true,0,0,0,0
+Quality Tools for Android,,3920,Java,2014 12 01T13:38:45Z,2014 12 01T15:57:30Z,true,0,0,0,0
+R,,176,R,2014 10 08T12:57:15Z,2014 10 22T14:15:30Z,false,1,1,0,0
+Radio player,,2332,JavaScript,2013 12 30T01:34:27Z,2014 01 07T02:51:07Z,false,0,0,0,0
+Rafik,Web base remote  controller  pad  monitor or companion app using WebRTC,3676,,2013 08 17T23:45:19Z,2013 08 17T22:11:29Z,true,0,0,0,0
+RBGParser,,3089,,2014 07 06T15:07:08Z,2014 07 01T20:06:10Z,true,0,0,0,0
+React,A declarative  efficient  and flexible JavaScript library for building user interfaces ,64392,JavaScript,2015 09 11T16:04:22Z,2015 09 11T16:23:17Z,true,0,0,0,0
+React tutorial,Code from the React tutorial ,143,JavaScript,2015 09 11T15:42:43Z,2015 09 11T16:22:42Z,true,0,0,0,0
+Readium chrome extension,Readium: open source library for handling EPUB documents,72,JavaScript,2013 10 28T20:08:57Z,2013 06 03T23:26:58Z,true,0,0,0,0
+Recordmp3js,Record MP3 files directly from the browser using JS and HTML,355,JavaScript,2014 12 19T15:19:30Z,2015 01 09T05:48:02Z,true,0,0,0,0
+Recyclerview playground,Examples of RecyclerView use and custom LayoutManager implementations,312,Java,2015 09 06T17:59:09Z,2015 09 08T12:23:48Z,true,0,0,0,0
+Repos,What are repos for,0,,2015 10 16T01:46:06Z,2015 10 16T01:46:06Z,false,0,0,0,0
+Restify oauth2,A simple OAuth 2 endpoint for Restify,260,CoffeeScript,2013 09 02T15:25:43Z,2015 10 04T23:35:45Z,true,0,0,0,6
+RxLocationTutorial,A simple app demonstrating the possibilities offered by RxJava on Android ,145,Java,2015 09 30T23:26:16Z,2015 10 12T01:07:08Z,true,1,1,0,0
+SAILS,,35431,HTML,2014 01 17T18:36:05Z,2015 03 02T08:45:02Z,true,0,0,0,0
+Sapling,AngularJS Starter App Providing User Management,853,JavaScript,2012 12 11T21:04:57Z,2012 12 18T14:43:23Z,true,0,0,0,0
+Secwepemc facebook,Facebook in Secwepemctsin,75,JavaScript,2012 08 16T03:58:58Z,2010 10 28T07:06:10Z,true,0,0,0,0
+Send to github,Chrome Extension: Send Issues to GitHub,170,CSS,2013 08 18T00:34:22Z,2013 08 17T21:52:13Z,true,0,0,0,0
+Sikuli monkey,An extension of Sikuli that enable running scripts against real Android devices without rooting them ,252,,2014 09 30T21:10:23Z,2014 08 01T09:48:43Z,true,0,0,0,0
+Sikuli ocr,Sikuli based OCR engine,742,,2014 09 30T20:03:37Z,2013 05 12T10:45:25Z,true,0,0,0,0
+Solutions mobile backend starter android client,,2633,Java,2013 07 14T18:00:28Z,2013 04 17T00:55:29Z,true,0,0,0,0
+Soundapp,Record short clips & apply FX,761,Java,2014 10 25T14:27:50Z,2014 10 26T20:17:32Z,true,0,0,0,0
+SpeechRecognitionPlugin,W3C Web Speech API   Speech Recognition plugin for PhoneGap,136,Java,2014 02 09T21:48:30Z,2013 09 11T02:57:53Z,true,0,0,0,0
+SpeechSynthesisPlugin,W3C Web Speech API   Speech synthesis plugin for PhoneGap,177,Java,2014 02 09T21:49:01Z,2014 01 07T02:59:11Z,true,0,0,0,0
+Sphinxbase,,8077,,2014 08 19T19:00:24Z,2014 08 16T21:34:07Z,true,0,0,0,0
+Spindle code,Speech to text for podcasting prototypes,1549,OpenEdge ABL,2013 10 28T20:37:43Z,2013 01 19T18:20:05Z,true,0,0,0,0
+Stanford Machine Learning Course,Machine learning course programming exercise,157294,Matlab,2013 08 17T12:10:23Z,2011 12 25T10:04:23Z,true,0,0,0,0
+Sundaydata,SundayData is a fast  intelligent and light way of storing data in you browser and using the power of CouchDB ,81,JavaScript,2013 06 13T01:00:42Z,2013 06 11T21:36:56Z,true,0,0,0,0
+Supermarche,Jeu de fusion,18895,JavaScript,2013 09 13T15:54:24Z,2013 09 13T16:40:47Z,true,0,0,0,0
+Swagger node express,Swagger module for node js w/express module,638,JavaScript,2013 09 07T14:41:40Z,2014 10 18T20:41:38Z,true,0,0,0,0
+TCPP,Test de Conscience Phonologique Préscolaire,36128,JavaScript,2014 01 06T03:51:20Z,2014 03 04T01:01:22Z,true,0,0,0,0
+TDFP,,195,JavaScript,2014 02 14T21:16:53Z,2014 03 04T00:51:17Z,true,0,0,0,0
+Tea mates,,2002,JavaScript,2011 10 19T11:33:17Z,2011 11 17T03:28:44Z,true,1,1,1,3
+Teambox,Open source project collaboration software  available online for free  Inspired by Basecamp  Yammer  Twitter ,15696,Ruby,2012 12 16T14:12:45Z,2012 08 21T10:00:10Z,true,0,0,0,0
+Temp converter,Sample Montage application: Demonstrates how a Montage application can be structured and implemented ,123,CSS,2013 12 03T17:33:08Z,2013 12 03T19:05:19Z,true,0,0,0,0
+Testing oprime in library,To see if oprime components show up,1780,JavaScript,2014 07 04T20:03:20Z,2014 07 05T13:50:27Z,false,0,0,0,0
+TestingCordovaAudio,Testing cordova audio in assets folder,2832,Java,2014 02 11T03:23:43Z,2014 02 11T03:24:30Z,false,0,0,0,0
+Testingoprime,Testing integration with OPrime components,3980,JavaScript,2014 06 21T09:06:48Z,2014 06 21T10:49:33Z,false,0,0,0,0
+Text cloud,Some texts from my cloud  where they written,16422,,2015 08 20T19:28:23Z,2015 08 20T19:57:33Z,true,0,0,0,0
+ThatsWhatSheSaid Classifier,A node js "that's what she said" classifier,312,JavaScript,2012 01 17T23:09:29Z,2012 01 12T23:55:13Z,true,1,1,0,0
+Todomvc for chrome extensions,Chrome Extension Tested   MV* Todo apps for Backbone js  JavaScriptMVC  Ember js  Dojo  Spine js  YUILibrary  Knockout js and more,50205,JavaScript,2012 05 17T20:57:59Z,2015 10 15T16:24:12Z,true,10,10,1,1
+ToolsForFieldLinguistics,A collection of scripts and recipes for fieldlinguistics and RAs in data heavy labs,70353,JavaScript,2011 02 05T18:55:33Z,2015 08 30T15:00:17Z,false,9,9,12,0
+TouchDB Android,CouchDB compatible mobile database; Android version,8345,Java,2013 02 21T15:50:18Z,2015 05 26T14:39:01Z,true,1,1,1,12
+TouchDB Android Lucene,CouchDB Lucene ported to Android,7399,Java,2012 12 01T22:26:29Z,2012 08 07T04:56:21Z,false,0,0,7,0
+TranscriptionDesVideosDeBAT,Inclu les 2 versions du texte,76,,2012 04 04T21:03:54Z,2012 04 04T19:21:12Z,true,1,1,0,0
+TwitterNLP,Topical search for Twitter  See twokenize py  emoticons py for tokenization ,35493,Python,2012 08 31T21:02:48Z,2011 06 28T18:58:11Z,true,0,0,0,0
+UpAndRunningWithAndroid,A workshop ready code base to get you up and running with Android intent mashups,2418,Java,2013 02 26T00:41:36Z,2015 08 30T18:06:09Z,false,1,1,24,1
+Vega,A visualization grammar ,31038,JavaScript,2015 09 23T16:06:49Z,2015 09 23T16:09:33Z,true,0,0,0,0
+Visualizations,A repository of interactive visuals that we have built and are using with feradi info   The visuals in this repo are simple html and javascript files   no rails ,102192,CSS,2014 04 04T11:54:40Z,2014 03 21T08:34:48Z,true,0,0,0,0
+Vocoder,Naive WebAudio Vocoder,6454,JavaScript,2013 10 28T21:19:15Z,2013 10 28T05:22:27Z,true,0,0,0,0
+WebAppBilingualAphasiaTest,An HTML5 webapp which was used to analyze data for the BilingualAphasiaTest for Academy of Aphasia 2011,93220,JavaScript,2011 11 21T01:26:45Z,2012 12 02T17:19:22Z,false,2,2,0,0
+WebAppCommunicationGame,A webapp to elicit fieldlinguistics data through a fun communication game,2772,JavaScript,2011 11 25T23:22:10Z,2011 12 12T22:11:16Z,false,2,2,1,3
+WikipediaMobile,Wikipedia on Mobile (PhoneGap),23777,JavaScript,2013 01 30T03:37:04Z,2013 01 27T19:42:47Z,true,0,0,0,0
+Wp lite autosuggest,Lightweight search auto suggest for WordPress ,105,PHP,2012 09 05T16:29:28Z,2011 03 17T14:58:47Z,true,0,0,0,0
+Zen tree,Bit of fun with L systems  sine wave and canvas,69,JavaScript,2012 01 01T06:06:39Z,2011 10 02T20:47:04Z,true,1,1,0,0
