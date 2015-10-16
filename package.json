@@ -10,5 +10,8 @@
     "test": "jasmine-node test"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^1.0.1"
+  }
 }
